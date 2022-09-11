@@ -72,9 +72,7 @@
   
   
   
-  
-  
-  
+ 
   
   
 ## 📕 Top projects I've contributed to
@@ -86,4 +84,33 @@
 /opensourcedesign.github.io"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=opensourcedesign&repo=opensourcedesign.github.io&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-stats"></a>
 <a href="https://github.com/firstcontributions/first-contributions"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=firstcontributions&repo=first-contributions&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="shields"></a>
  
+  
+  
+  
+  
+## 🔥 Streak stats
+
+<!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
+<p align="center">
+  <a href="https://github.com/Ak-ram">
+    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Akram's streak" src="https://streak-stats.demolab.com/?user=Ak-ram&theme=monokai-metallian&hide_border=true"/>
+  </a>
+</p>
+
+
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
   

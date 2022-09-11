@@ -15,32 +15,32 @@
   
 <!-- LinkedIn -->
   <a href='https://www.linkedin.com/in/akram64/'>
-    <img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white'/>
+    <img  alt="Linkedin" title="Linkedin" src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white'/>
   </a>
   
   
  <!-- Hashnode -->
    <a href='https://nutcracker.hashnode.dev/'>
-      <img src='https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white'/>
+      <img  alt="Hasnode" title="Blog" src='https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white'/>
   </a>
   
   
   <!-- Github -->
   <a href='https://github.com/Ak-ram'>
-      <img src='https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white'/>
+      <img  alt="Github" title="GitHub" src='https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white'/>
   </a>
-  
+ 
   
   <!-- Gmail -->
   <a href='mailto:ashrfakrm64@gmail.com'>
-    <img src='https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white'/>
+    <img  alt="Gmail" title="Mail me" src='https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white'/>
   </a>
   
   
   <!-- Whats' app -->
   <!--   <a href='https://wa.me/1XXXXXXXXXX?text=I'm%20interested%20in%20your%20car%20for%20sale'> -->
   <a href="https://wa.me/00201158541832?text=Hi Akram 👋, I'm Interest to work with you"/>
-    <img src='https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white'/>
+    <img  alt="Whats' app" title="Msg me" src='https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white'/>
   </a>
   
   
@@ -49,3 +49,15 @@
 <br/>
 
 
+
+
+## 📘 My top open source projects
+
+<!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
+<!-- Small repo cards (fork) - https://github.com/DenverCoder1/github-readme-stats -->
+<p align="left">
+  <a href="https://github.com/Ak-ram/scss-helpers"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Ak-ram&repo=scss-helpers&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-scss-helpers-repo"></a>
+<a href="https://github.com/Ak-ram/flexbox-playground"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Ak-ram&repo=flexbox-playground&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-flexbox-playground-repo"></a>
+<a href="https://github.com/Ak-ram/todoist"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Ak-ram&repo=todoist&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-todoist-repo"></a>
+<a href="https://github.com/Ak-ram/quran-player"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Ak-ram&repo=quran-player&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-quran-player-repo"></a>
+<a href="https://github.com/Ak-ram/social-media"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Ak-ram&repo=social-media&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-social-media-repo"></a>

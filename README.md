@@ -54,8 +54,9 @@
 <a href="https://www.linkedin.com/in/akrmm">
   <img alt='linkedin-profile' src='https://linkedin-github.herokuapp.com/api/render/Akram%20A.%20Ashraf/Front-End%20Developer/ReactJS/Bachelors%20degree/dark/https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F69124951%3Fv%3D4'/>
 </a>
-  <img width= '530' src="https://i.pinimg.com/originals/65/56/ca/6556ca0886a22948573c1845169e7a21.gif"/>
+  <img width= '530' src="https://user-images.githubusercontent.com/69124951/189624978-235bd3a5-7a39-4dcd-b8cb-006f8be79cce.png"/>
 </p>
+
 ## 📘 My top open source projects
 
 <!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->

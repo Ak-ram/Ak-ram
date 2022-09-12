@@ -15,32 +15,37 @@
   
 <!-- LinkedIn -->
   <a href='https://www.linkedin.com/in/akram64/'>
-    <img  alt="Linkedin" title="Linkedin" src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white'/>
+    <img  alt="Linkedin" title="Linkedin" src='https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white'/>
   </a>
   
   
- <!-- Hashnode -->
-   <a href='https://nutcracker.hashnode.dev/'>
-      <img  alt="Hasnode" title="Blog" src='https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white'/>
+ <!-- Leetcode -->
+   <a href='https://www.leetcode.com/Ak-ram'>
+      <img alt="Leetcode" title="Blog" src='https://img.shields.io/badge/-LeetCode-FFA116?logo=LeetCode&logoColor=black'/>
+  </a>
+  
+ <!-- Medium -->
+   <a href='https://dev.to/akram_ak'>
+      <img  alt="Dev.to" title="Blog" src='https://img.shields.io/badge/dev.to-0A0A0A?logo=devdotto&logoColor=white'/>
   </a>
   
   
-  <!-- Github -->
-  <a href='https://github.com/Ak-ram'>
-      <img  alt="Github" title="GitHub" src='https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white'/>
+  <!-- Stackoverflow -->
+  <a href='https://stackoverflow.com/users/14151211/akram-ashraf'>
+      <img  alt="Stackover flow" title="Stackover flow" src='https://aleen42.github.io/badges/src/stackoverflow.svg'/>
   </a>
  
   
   <!-- Gmail -->
   <a href='mailto:ashrfakrm64@gmail.com'>
-    <img  alt="Gmail" title="Mail me" src='https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white'/>
+    <img  alt="Gmail" title="Mail me" src='https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white'/>
   </a>
   
   
   <!-- Whats' app -->
   <!--   <a href='https://wa.me/1XXXXXXXXXX?text=I'm%20interested%20in%20your%20car%20for%20sale'> -->
   <a href="https://wa.me/00201158541832?text=Hi Akram 👋, I'm Interest to work with you"/>
-    <img  alt="Whats' app" title="Msg me" src='https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white'/>
+    <img  alt="Whats' app" title="Msg me" src='https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white'/>
   </a>
   
   
@@ -115,29 +120,30 @@
 ### 👨‍💻 Programming and markup languages
 
 <p>
-    <a href="#"><img alt="Bash" src="https://img.shields.io/badge/Bash-121011.svg?logo=gnu-bash&logoColor=white"></a>
     <a href="#"><img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white"></a>
     <a href="#"><img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white"></a>
     <a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black"></a>
-    <a href="#"><img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000.svg?logo=markdown&logoColor=white"></a>
     <a href="#"><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white"></a>
     <a href="#"><img alt="SASS" src="https://img.shields.io/badge/Sass-hotpink.svg?logo=SASS&logoColor=white"></a>
-    <a href="#"><img alt="Scratch" src="https://img.shields.io/badge/Scratch-4D97FF.svg?logo=scratch&logoColor=white"></a>
     <a href="#"><img alt="SVG+XML" src="https://img.shields.io/badge/SVG%2BXML-e0982c.svg?logo=svg&logoColor=white"></a>
-    <a href="#"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC.svg?logo=typescript&logoColor=white"></a>
+    <a href="#"><img alt="Bash" src="https://img.shields.io/badge/Bash-121011.svg?logo=gnu-bash&logoColor=white"></a>
+    <a href="#"><img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000.svg?logo=markdown&logoColor=white"></a>
 </p>
 
 ### 🧰 Frameworks and libraries
 
 <p>
+ <a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB"></a>
     <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white"></a>
+      <a href="#"><img alt="Tailwind" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white"></a>
     <a href="#"><img alt="Jest" src="https://img.shields.io/badge/Jest-C21325.svg?logo=jest&logoColor=white"></a>
     <a href="#"><img alt="Material Design" src="https://img.shields.io/badge/Material%20Design-0081CB.svg?logo=material-design&logoColor=white"></a>
-    <a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB"></a>
+   
 
 ### 🗄️ Databases and cloud hosting
 
 <p>
+<a href="#"><img alt="Microsoft_Access" src="https://img.shields.io/badge/Microsoft_Access-A4373A?logo=microsoft-access&logoColor=white"></a>
     <a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-327FC7.svg?logo=github&logoColor=white"></a>
     <a href="#"><img alt="Notion" src="https://img.shields.io/badge/Notion-010101.svg?logo=notion&logoColor=white"></a>
     <a href="#"><img alt="Firebase" src="https://img.shields.io/badge/Firbase-010101.svg?logo=firebase&logoColor=yellow"></a>
@@ -147,14 +153,17 @@
 ### 💻 Software and tools
 
 <p>
+ <a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white"></a>
     <a href="#"><img alt="Codepen" src="https://img.shields.io/badge/Codepen-000000.svg?logo=codepen&logoColor=white"></a>
     <a href="#"><img alt="Discord" src="https://img.shields.io/badge/-Discord-5865F2.svg?logo=discord&logoColor=white"></a>
     <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"></a>
     <a href="#"><img alt="GitHub Desktop" src="https://img.shields.io/badge/GitHub%20Desktop-8034A9.svg?logo=github&logoColor=white"></a>
     <a href="#"><img alt="Google Sheets" src="https://img.shields.io/badge/Google%20Sheets-34A853.svg?logo=google%20sheets&logoColor=white"></a>
-    <a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white"></a>
     <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
     <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
+    <a href="#"><img alt="WebStorm" src="https://img.shields.io/badge/WebStorm-000000?logo=WebStorm&logoColor=white"></a>
+    
+    
 </p>
 
   

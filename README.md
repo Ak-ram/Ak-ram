@@ -66,12 +66,39 @@
 
 <!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
 <!-- Small repo cards (fork) - https://github.com/DenverCoder1/github-readme-stats -->
-<p align="left">
-<a href="https://github.com/Ak-ram/Moviideck"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Ak-ram&repo=Moviideck&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-scss-moviideck-webapp"></a>
+
+
+
+
+
+
+### VS Code Snippets
+
+<p align='left'>
   <a href="https://github.com/Ak-ram/scss-helpers"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Ak-ram&repo=scss-helpers&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-scss-helpers-repo"></a>
-<a href="https://github.com/Ak-ram/flexbox-playground"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Ak-ram&repo=flexbox-playground&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-flexbox-playground-repo"></a>
-<a href="https://github.com/Ak-ram/todoist"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Ak-ram&repo=todoist&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-todoist-repo"></a>
+</p>
+
+
+
+
+
+
+### ReactJS Projects
+
+<p align='left'>
+<a href="https://github.com/Ak-ram/Moviideck"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Ak-ram&repo=Moviideck&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-scss-moviideck-webapp"></a>
 <a href="https://github.com/Ak-ram/quran-player"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Ak-ram&repo=quran-player&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-quran-player-repo"></a>
+<a href="https://github.com/Ak-ram/todoist"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Ak-ram&repo=todoist&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-todoist-repo"></a>
+<a href="https://github.com/Ak-ram/flexbox-playground"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Ak-ram&repo=flexbox-playground&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-flexbox-playground-repo"></a>
+</p>
+
+
+
+
+
+### Vanilla JavaScript Projects
+
+<p align="left">
 <a href="https://github.com/Ak-ram/social-media"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Ak-ram&repo=social-media&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-social-media-repo"></a>
 
   

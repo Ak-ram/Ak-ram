@@ -57,7 +57,8 @@
 ## ❤ Follow me
 <p align='center'>
 <a href="https://www.linkedin.com/in/akrmm">
-  <img alt='linkedin-profile' src='https://linkedin-github.herokuapp.com/api/render/Akram%20A.%20Ashraf/Front-End%20Developer/ReactJS/Bachelors%20degree/dark/https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F69124951%3Fv%3D4'/>
+<!--   <img alt='linkedin-profile' src='https://linkedin-github.herokuapp.com/api/render/Akram%20A.%20Ashraf/Front-End%20Developer/ReactJS/Bachelors%20degree/dark/https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F69124951%3Fv%3D4'/> -->
+  <img alt='linkedin-profile'  src='https://user-images.githubusercontent.com/69124951/190912910-c8210afa-ef67-4f19-8b50-a93f2fe37b39.png' />
 </a>
   <img width= '220' src="https://user-images.githubusercontent.com/69124951/189626469-5ff7080a-1429-4d8d-a218-8a3617b6ab18.png"/>
 </p>

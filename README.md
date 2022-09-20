@@ -80,9 +80,9 @@
 <img width='600' src="https://user-images.githubusercontent.com/69124951/191378302-f78fe10e-39c7-414a-abee-5bc84dd2d6e9.gif"/>
 </div>
 
+<br/>
 
-
-### VS Code Snippets
+> ### 1. VS Code Snippets Repos
 
 <p align='left'>
   <a href="https://github.com/Ak-ram/scss-helpers"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Ak-ram&repo=scss-helpers&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-scss-helpers-repo"></a>
@@ -90,10 +90,10 @@
 
 
 
+<br/>
 
 
-
-### ReactJS Projects
+> ### 2. ReactJS Repos
 
 <p align='left'>
 <a href="https://github.com/Ak-ram/Moviideck"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Ak-ram&repo=Moviideck&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-scss-moviideck-webapp"></a>
@@ -104,9 +104,9 @@
 
 
 
+<br/>
 
-
-### HTML, CSS, & JS Projects
+> ### 3. HTML, CSS, & JS Repos
 
 <p align="left">
 <a href="https://github.com/Ak-ram/Portfolio"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Ak-ram&repo=Portfolio&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-Portfolio-repo"></a>

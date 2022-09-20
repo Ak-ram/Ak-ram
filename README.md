@@ -75,7 +75,7 @@
 
   > ### Browse my Repos easly
 
-<img width='100%' src="https://user-images.githubusercontent.com/69124951/191378302-f78fe10e-39c7-414a-abee-5bc84dd2d6e9.gif"/>
+<img width='500' src="https://user-images.githubusercontent.com/69124951/191378302-f78fe10e-39c7-414a-abee-5bc84dd2d6e9.gif"/>
 
 
 ### VS Code Snippets

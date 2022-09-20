@@ -73,9 +73,13 @@
 <!-- Small repo cards (fork) - https://github.com/DenverCoder1/github-readme-stats -->
 
 
-  > ### Browse my Repos easly
 
-<img width='500' src="https://user-images.githubusercontent.com/69124951/191378302-f78fe10e-39c7-414a-abee-5bc84dd2d6e9.gif"/>
+
+<div align='center'>
+  <h3>Browse my Repos easly</h3>
+<img width='600' src="https://user-images.githubusercontent.com/69124951/191378302-f78fe10e-39c7-414a-abee-5bc84dd2d6e9.gif"/>
+</div>
+
 
 
 ### VS Code Snippets

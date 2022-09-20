@@ -76,7 +76,8 @@
 
 
 <div align='center'>
-  <h3>___Browse my Repos easly___</h3>
+  <h3>Browse my Repos easly</h3>
+  <p>As my repos grow, I organise them into categories based on the languages I used to develop them.</p>
 <img width='600' src="https://user-images.githubusercontent.com/69124951/191378302-f78fe10e-39c7-414a-abee-5bc84dd2d6e9.gif"/>
 </div>
 

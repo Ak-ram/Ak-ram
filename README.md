@@ -1,3 +1,11 @@
+<!-- ![Profile views](https://gpvc.arturio.dev/Ak-ram) -->
+
+<!-- [![Open Source Love png3](https://badges.frapsoft.com/os/v3/open-source.png?v=103)](https://github.com/ellerbrock/open-source-badges/) -->
+
+
+<!-- [![Sparkline](https://stars.medv.io/Naereen/badges.svg)](https://stars.medv.io/Ak-ram/badges) -->
+
+
 <h3 align="center">
   Welcome to Akram A. Ashraf's profile!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">

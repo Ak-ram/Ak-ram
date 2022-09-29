@@ -22,7 +22,7 @@
   
   
 <!-- LinkedIn -->
-  <a href='https://www.linkedin.com/in/akram64/'>
+  <a href='https://www.linkedin.com/in/ak-ram/'>
     <img  alt="Linkedin" title="Linkedin" src='https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white'/>
   </a>
   
@@ -65,12 +65,12 @@
 ## ❤ Follow me
 <p align='center'>
 
-<a href="https://www.linkedin.com/in/akrmm">
+<a href="https://www.linkedin.com/in/ak-ram" title='Akram A. Abdelbasir linkedin profile' >
 <!--   <img alt='linkedin-profile' src='https://linkedin-github.herokuapp.com/api/render/Akram%20A.%20Ashraf/Front-End%20Developer/ReactJS/Bachelors%20degree/dark/https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F69124951%3Fv%3D4'/> -->
   <img alt='linkedin-profile'  src='https://user-images.githubusercontent.com/69124951/190912910-c8210afa-ef67-4f19-8b50-a93f2fe37b39.png' />
 </a>
 
-<a href='https://github.com/Ak-ram'> 
+<a href='https://github.com/Ak-ram' title='Akram A. Abdelbasir GitHub profile'> 
   <img width= '220' src="https://user-images.githubusercontent.com/69124951/189626469-5ff7080a-1429-4d8d-a218-8a3617b6ab18.png"/>
   </a>
 </p>

@@ -66,8 +66,12 @@
 <p align='center'>
 
 <a href="https://www.linkedin.com/in/ak-ram" title='Akram A. Abdelbasir linkedin profile' >
+
 <!--   <img alt='linkedin-profile' src='https://linkedin-github.herokuapp.com/api/render/Akram%20A.%20Ashraf/Front-End%20Developer/ReactJS/Bachelors%20degree/dark/https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F69124951%3Fv%3D4'/> -->
-  <img alt='linkedin-profile'  src='https://user-images.githubusercontent.com/69124951/190912910-c8210afa-ef67-4f19-8b50-a93f2fe37b39.png' />
+
+
+
+  <img alt='linkedin-profile' src='https://user-images.githubusercontent.com/69124951/193275227-c210b164-440c-4d61-94a5-592249e9533b.png' />
 </a>
 
 <a href='https://github.com/Ak-ram' title='Akram A. Abdelbasir GitHub profile'> 

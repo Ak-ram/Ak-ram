@@ -109,7 +109,7 @@
 > ### 2. ReactJS Repos
 
 <p align='left'>
-<a href="https://github.com/Ak-ram/Moviideck"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Ak-ram&repo=Moviideck&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=false&icon_color=F8D866&show_icons=true" alt="github-scss-moviideck-webapp"></a>
+<a href="https://github.com/Ak-ram/Moviideck"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Ak-ram&repo=Moviideck&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=false&border_color=F85D7F&icon_color=F8D866&show_icons=true" alt="github-scss-moviideck-webapp"></a>
 <a href="https://github.com/Ak-ram/quran-player"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Ak-ram&repo=quran-player&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-quran-player-repo"></a>
 <a href="https://github.com/Ak-ram/todoist"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Ak-ram&repo=todoist&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-todoist-repo"></a>
 <a href="https://github.com/Ak-ram/flexbox-playground"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Ak-ram&repo=flexbox-playground&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-flexbox-playground-repo"></a>
@@ -122,7 +122,7 @@
 > ### 3. HTML, CSS, & JS Repos
 
 <p align="left">
-<a href="https://github.com/Ak-ram/Portfolio"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Ak-ram&repo=Portfolio&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-Portfolio-repo"></a>
+<a href="https://github.com/Ak-ram/Portfolio"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Ak-ram&repo=Portfolio&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=false&border_color=F85D7F&icon_color=F8D866&show_icons=true" alt="github-Portfolio-repo"></a>
 <a href="https://github.com/Ak-ram/social-media"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Ak-ram&repo=social-media&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-social-media-repo"></a>
 <a href="https://github.com/Ak-ram/zoom-image-when-hovering"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Ak-ram&repo=zoom-image-when-hovering&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-zoom-image-when-hovering-repo"></a>
   <a href="https://github.com/Ak-ram/Arrow-Propagation"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Ak-ram&repo=Arrow-Propagation&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-Arrow-Propagation-repo"></a>

@@ -158,10 +158,10 @@
  
  
  ## 🚀 Some of my Works
+<a href='https://codepen.io/Akr-am/pen/JjvedzJ' title="css shadow animation" >
+ <img src="https://user-images.githubusercontent.com/69124951/197283827-24c8ffa8-c3ca-4bf6-ad7e-14449fac5cf7.gif" width= "50%" alt="css shadow animation" />
 
- <img src="https://user-images.githubusercontent.com/69124951/197283827-24c8ffa8-c3ca-4bf6-ad7e-14449fac5cf7.gif" width= "50%" alt="css shadow animation" title="css shadow animation" />
-
- 
+ </a>
  
  
  

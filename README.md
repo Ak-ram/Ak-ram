@@ -154,7 +154,22 @@
 <a href="https://github.com/firstcontributions/first-contributions"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=firstcontributions&repo=first-contributions&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="shields"></a>
  
   
-  
+ 
+ 
+ 
+ ## 🚀 Some of my Works
+
+ <img src="https://user-images.githubusercontent.com/69124951/197283827-24c8ffa8-c3ca-4bf6-ad7e-14449fac5cf7.gif" width= "33%" alt="css shadow animation" />
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
   
   
 ## 🔥 Streak stats

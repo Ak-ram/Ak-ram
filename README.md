@@ -170,7 +170,9 @@
  <img src="https://user-images.githubusercontent.com/69124951/197331573-90233082-d163-4d5c-bdeb-981ed62acf72.gif" width= "280px" height="180px" alt="Space CSS Animation" />
  </a>
  
- 
+ <a href='https://codepen.io/Akr-am/pen/abBMwBb' title="CSS Clock Animation">
+ <img src="https://user-images.githubusercontent.com/69124951/197332571-059ad37c-d4a5-4c5f-a214-c6da19f1f8f2.gif" width= "280px" height="180px" alt="CSS Clock Animation" />
+ </a> 
 
   
   
@@ -185,8 +187,7 @@
 
 
 
-  
-  
+
 
 <!-- Some badges are from https://github.com/Ileriayo/markdown-badges -->
 

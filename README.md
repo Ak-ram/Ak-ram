@@ -166,9 +166,12 @@
  <img src="https://user-images.githubusercontent.com/69124951/197331108-aff1dcef-1b6a-4c1a-96b7-ea95b00ec482.gif" width= "280px" height="180px" alt="JS Arrow Animation" />
  </a>
  
+ <a href='https://codepen.io/Akr-am/full/jOVvJGV' title="Space CSS Animation" >
+ <img src="https://user-images.githubusercontent.com/69124951/197331573-90233082-d163-4d5c-bdeb-981ed62acf72.gif" width= "280px" height="180px" alt="Space CSS Animation" />
+ </a>
+ 
+ 
 
- 
- 
   
   
 ## 🔥 Streak stats

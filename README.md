@@ -159,11 +159,11 @@
  
  ## 🚀 Some of my Works
 <a href='https://codepen.io/Akr-am/pen/JjvedzJ' title="css shadow animation" >
- <img src="https://user-images.githubusercontent.com/69124951/197283827-24c8ffa8-c3ca-4bf6-ad7e-14449fac5cf7.gif" width= "49%" alt="css shadow animation" />
+ <img src="https://user-images.githubusercontent.com/69124951/197283827-24c8ffa8-c3ca-4bf6-ad7e-14449fac5cf7.gif" width= "300px" height="168.75px" alt="css shadow animation" />
  </a>
  
  <a href='https://codepen.io/Akr-am/pen/gOXKemZ' title="JS Arrow Animation" >
- <img src="https://user-images.githubusercontent.com/69124951/197330314-c5959e8f-04ff-40f0-8b4c-643164a86a2e.gif" width= "49%" alt="JS Arrow Animation" />
+ <img src="https://user-images.githubusercontent.com/69124951/197330314-c5959e8f-04ff-40f0-8b4c-643164a86a2e.gif" width= "300px" height="168.75px" alt="JS Arrow Animation" />
  </a>
  
 

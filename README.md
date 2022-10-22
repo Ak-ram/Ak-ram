@@ -178,6 +178,12 @@
  </a> 
  
  
+   <!-- JS Tooltip Effect-->
+  <a href='https://codepen.io/Akr-am/full/QWKyQZx' title="JS Tooltip Effect">
+ <img src="https://user-images.githubusercontent.com/69124951/197332978-1246b10e-0f0f-4dc4-9c3a-e9f3837efac0.gif" width= "180px" height="180px" alt="CSS Clock Animation" />
+ </a> 
+ 
+ 
  <!-- Space CSS Animation-->
  <a href='https://codepen.io/Akr-am/full/jOVvJGV' title="Space CSS Animation">
  <img src="https://user-images.githubusercontent.com/69124951/197331573-90233082-d163-4d5c-bdeb-981ed62acf72.gif" width= "280px" height="180px" alt="Space CSS Animation" />
@@ -195,7 +201,6 @@
     <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Akram's streak" src="https://streak-stats.demolab.com/?user=Ak-ram&theme=monokai-metallian&hide_border=true"/>
   </a>
 </p>
-
 
 
 

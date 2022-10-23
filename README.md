@@ -161,16 +161,20 @@
  
  <!-- CSS Shadow Animation -->
 <a href='https://codepen.io/Akr-am/pen/JjvedzJ' title="CSS Shadow Animation" >
- <img src="https://user-images.githubusercontent.com/69124951/197283827-24c8ffa8-c3ca-4bf6-ad7e-14449fac5cf7.gif" width= "280px" height="180px" alt="css shadow animation" />
+ <img src="https://user-images.githubusercontent.com/69124951/197283827-24c8ffa8-c3ca-4bf6-ad7e-14449fac5cf7.gif" width= "33%" height="180px" alt="css shadow animation" />
  </a>
  
  
    <!-- JS Arrow Animation -->
  <a href='https://codepen.io/Akr-am/pen/gOXKemZ' title="JS Arrow Animation" >
- <img src="https://user-images.githubusercontent.com/69124951/197331108-aff1dcef-1b6a-4c1a-96b7-ea95b00ec482.gif" width= "280px" height="180px" alt="JS Arrow Animation" />
+ <img src="https://user-images.githubusercontent.com/69124951/197331108-aff1dcef-1b6a-4c1a-96b7-ea95b00ec482.gif" width= "33%" height="180px" alt="JS Arrow Animation" />
  </a>
  
- 
+  
+ <!-- Space CSS Animation-->
+ <a href='https://codepen.io/Akr-am/full/jOVvJGV' title="Space CSS Animation">
+ <img src="https://user-images.githubusercontent.com/69124951/197331573-90233082-d163-4d5c-bdeb-981ed62acf72.gif" width= "33%" height="180px" alt="Space CSS Animation" />
+ </a>
  
   <!-- CSS Clock Animation-->
   <a href='https://codepen.io/Akr-am/pen/abBMwBb' title="CSS Clock Animation">
@@ -183,11 +187,7 @@
  <img src="https://user-images.githubusercontent.com/69124951/197332978-1246b10e-0f0f-4dc4-9c3a-e9f3837efac0.gif" width= "150px" height="180px" alt="CSS Clock Animation" />
  </a> 
  
- 
- <!-- Space CSS Animation-->
- <a href='https://codepen.io/Akr-am/full/jOVvJGV' title="Space CSS Animation">
- <img src="https://user-images.githubusercontent.com/69124951/197331573-90233082-d163-4d5c-bdeb-981ed62acf72.gif" width= "280px" height="180px" alt="Space CSS Animation" />
- </a>
+
  
 
 

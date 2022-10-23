@@ -186,13 +186,13 @@
  
   <!-- CSS Clock Animation-->
   <a href='https://codepen.io/Akr-am/pen/abBMwBb' title="CSS Clock Animation">
- <img src="https://user-images.githubusercontent.com/69124951/197332571-059ad37c-d4a5-4c5f-a214-c6da19f1f8f2.gif" width= "410px" height="180px" alt="CSS Clock Animation" />
+ <img src="https://user-images.githubusercontent.com/69124951/197332571-059ad37c-d4a5-4c5f-a214-c6da19f1f8f2.gif" width= "556px" height="180px" alt="CSS Clock Animation" />
  </a> 
  
  
  <!-- JS Tooltip Effect-->
   <a href='https://codepen.io/Akr-am/full/QWKyQZx' title="JS Tooltip Effect">
- <img src="https://user-images.githubusercontent.com/69124951/197332978-1246b10e-0f0f-4dc4-9c3a-e9f3837efac0.gif" width= "150px" height="180px" alt="CSS Clock Animation" />
+ <img src="https://user-images.githubusercontent.com/69124951/197332978-1246b10e-0f0f-4dc4-9c3a-e9f3837efac0.gif" width= "139px" height="180px" alt="CSS Clock Animation" />
  </a> 
  
 

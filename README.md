@@ -290,7 +290,8 @@
 <!-- https://github.com/jamesgeorge007/github-activity-readme -->
 <!-- <details> -->
 <!--   <summary>⚡ Recent GitHub Activity</summary> -->
-  <br/>
+
+<br/>
 
 <!--START_SECTION:activity-->
 <!-- 
@@ -299,7 +300,7 @@
 3. 🎉 Merged PR [#16](https://github.com/DenverCoder1/github-readme-youtube-cards/pull/16) in [DenverCoder1/github-readme-youtube-cards](https://github.com/DenverCoder1/github-readme-youtube-cards)
 4. 💪 Opened PR [#16](https://github.com/DenverCoder1/github-readme-youtube-cards/pull/16) in [DenverCoder1/github-readme-youtube-cards](https://github.com/DenverCoder1/github-readme-youtube-cards)
 5. 🎉 Merged PR [#15](https://github.com/DenverCoder1/github-readme-youtube-cards/pull/15) in [DenverCoder1/github-readme-youtube-cards](https://github.com/DenverCoder1/github-readme-youtube-cards)
-    <!--END_SECTION:activity--> -->
+    <!--END_SECTION:activity-->
 <!--     </details> -->
 
 <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->

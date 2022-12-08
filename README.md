@@ -63,6 +63,25 @@
 <br/>
 
 
+
+
+
+## ⚡ Recent GitHub Activity
+
+
+
+<!--START_SECTION:activity-->
+
+1. 🎉 Contribute in [Frontend-Interview-Questions](https://github.com/Ak-ram/Frontend-Interview-Questions) from here [#3](https://github.com/Ak-ram/Frontend-Interview-Questions/issues/3)
+
+ <!--END_SECTION:activity-->
+
+
+
+
+
+
+
 ## ❤ Follow me
 <p align='center'>
 
@@ -290,17 +309,7 @@
 </details>
 
 <!-- https://github.com/jamesgeorge007/github-activity-readme -->
-<!-- <details> -->
-<!--   <summary>⚡ Recent GitHub Activity</summary> -->
 
-<br/>
-
-<!--START_SECTION:activity-->
-
-1. 🎉 Contribute in [Frontend-Interview-Questions](https://github.com/Ak-ram/Frontend-Interview-Questions) from here [#3](https://github.com/Ak-ram/Frontend-Interview-Questions/issues/3)
-
-    <!--END_SECTION:activity-->
-<!--     </details> 
 
 <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
 

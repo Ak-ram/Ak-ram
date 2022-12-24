@@ -70,7 +70,7 @@
 
 <!--START_SECTION:activity-->
 1. 🎉 Contribute in [Frontend-Interview-Questions](https://github.com/Ak-ram/Frontend-Interview-Questions) from here [#3](https://github.com/Ak-ram/Frontend-Interview-Questions/issues/3)
-2. ⌛ Start my first [Typescript](https://github.com/Ak-ram/typescriptFirstProject) project
+2. ⌛ Build my Portfolio with [React/Typescript](https://github.com/Ak-ram/Akram_Portfolio)
 
  <!--END_SECTION:activity-->
 

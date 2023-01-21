@@ -6,6 +6,7 @@
 
 
 
+#### Working on this profile has been suspended till I finish my military service. ⌛🎖
 
 <h1 align="center">
   Welcome to Akram's profile!

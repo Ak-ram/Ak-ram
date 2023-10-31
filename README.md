@@ -3,16 +3,19 @@
 <!-- [![Sparkline](https://stars.medv.io/Naereen/badges.svg)](https://stars.medv.io/Ak-ram/badges) -->
 
 <!-- https://github.com/Naereen/badges/blob/master/README.md -->
-![removal ai _5fc7aa4c-7bc9-47b6-9bbe-b949172e87b2-inspiration-1-2_KIGIR6](https://github.com/Ak-ram/Ak-ram/assets/69124951/79250261-758b-4cb1-a7fc-90d4120c8b3f)
-
-<h1 align="center">
-  Welcome to Akram's profile!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-</h1>
+![img](https://github.com/Ak-ram/Ak-ram/assets/69124951/79250261-758b-4cb1-a7fc-90d4120c8b3f)
 
 
+# Welcome to Akram's profile
 
-<p>A bit about me</p>
+## 1. About me:
+
+- A recent graduate of Beni-Suef University with a bachelor's degree in Science. have passionate about front-end development and eager to learn and grow in this field.
+
+- Have a strong foundation in the core front-end technologies, including HTML, CSS, and JavaScript. I am also proficient in popular front-end frameworks and libraries, such as React. I have experience with version control systems (Git) and type checking (TypeScript).
+
+- Recently, I started to learn data structure and algorithms.
+
 
 
 

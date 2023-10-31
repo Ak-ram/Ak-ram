@@ -3,8 +3,7 @@
 <!-- [![Sparkline](https://stars.medv.io/Naereen/badges.svg)](https://stars.medv.io/Ak-ram/badges) -->
 
 <!-- https://github.com/Naereen/badges/blob/master/README.md -->
-
-<img src="https://madewithnetworkfra.fra1.digitaloceanspaces.com/spatie-space-production/28149/beatbump.jpg" />
+![Inspiration (1) (2)](https://github.com/Ak-ram/Ak-ram/assets/69124951/99a33563-42dc-46f8-891b-fec9f6a74188)
 
 <h1 align="center">
   Welcome to Akram's profile!

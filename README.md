@@ -4,14 +4,18 @@
 
 <!-- https://github.com/Naereen/badges/blob/master/README.md -->
 
-
-
-#### _Working on this profile has been suspended till I finish my military service._ ⌛🎖
+<img src="https://madewithnetworkfra.fra1.digitaloceanspaces.com/spatie-space-production/28149/beatbump.jpg" />
 
 <h1 align="center">
   Welcome to Akram's profile!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h1>
+
+
+
+<p>A bit about me</p>
+
+
 
 
 <!--Previous font: Silkscreen-->

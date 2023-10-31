@@ -3,7 +3,7 @@
 <!-- [![Sparkline](https://stars.medv.io/Naereen/badges.svg)](https://stars.medv.io/Ak-ram/badges) -->
 
 <!-- https://github.com/Naereen/badges/blob/master/README.md -->
-![Inspiration (1) (2)](https://github.com/Ak-ram/Ak-ram/assets/69124951/99a33563-42dc-46f8-891b-fec9f6a74188)
+![removal ai _5fc7aa4c-7bc9-47b6-9bbe-b949172e87b2-inspiration-1-2_KIGIR6](https://github.com/Ak-ram/Ak-ram/assets/69124951/79250261-758b-4cb1-a7fc-90d4120c8b3f)
 
 <h1 align="center">
   Welcome to Akram's profile!

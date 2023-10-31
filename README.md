@@ -72,7 +72,7 @@
 
 <!-- Some badges are from https://github.com/Ileriayo/markdown-badges -->
 
-## 🛠️ My favorite tools
+## 🛠️ MY FAVOURITE TOOLS
 
 ### 👨‍💻 Programming and markup languages
 
@@ -179,7 +179,7 @@
  
   
   
-## 📕 Top projects I've contributed to
+## 📕 TOP PROJECTS I'VE CONTRIBUTE TO
 
 <!-- Small repo cards https://github.com/DenverCoder1/github-readme-stats (fork of anuraghazra/github-readme-stats) -->
 <p align="left">
@@ -201,7 +201,7 @@
 
  
  
- ## 🚀 Some of my Pens
+ ## 🚀 SOME OF MY PENS
  
  <!-- CSS Shadow Animation -->
 <a href='https://codepen.io/Akr-am/pen/JjvedzJ' title="CSS Shadow Animation" >
@@ -245,7 +245,7 @@
 
   
   
-## 🔥 Streak stats
+## 🔥 STREAK STATS
 
 <!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
 <p align="center">
@@ -266,7 +266,7 @@
   
   
   
-## 📊 Github stats
+## 📊 GITHUB STATS
 
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 <details> 

@@ -72,7 +72,7 @@
 
 <!-- Some badges are from https://github.com/Ileriayo/markdown-badges -->
 
-## 🛠️ MY FAVOURITE TOOLS
+## 🛠️ SKILLS
 
 ### 👨‍💻 Programming and markup languages
 

@@ -6,17 +6,9 @@
 ![img](https://github.com/Ak-ram/Ak-ram/assets/69124951/79250261-758b-4cb1-a7fc-90d4120c8b3f)
 
 
-# Welcome to Akram's profile
+# Welcome to Akram's profile 
 
-## 1. About me:
-
-- A recent graduate of Beni-Suef University with a bachelor's degree in Science. have passionate about front-end development and eager to learn and grow in this field.
-
-- Have a strong foundation in the core front-end technologies, including HTML, CSS, and JavaScript. I am also proficient in popular front-end frameworks and libraries, such as React. I have experience with version control systems (Git) and type checking (TypeScript).
-
-- Recently, I started to learn data structure and algorithms.
-
-
+## ⚡ ABOUT ME
 
 
 
@@ -26,9 +18,9 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+code&size=22&duration=2000&pause=1000&color=DDE43F&background=2A2E3424&center=true&vCenter=true&width=435&lines=Front-End+Web+Developer;Blogger+%26+Content+Writer;Always+learning+new+things"></a>
 </p> 
 
+
 <!-- Social icons section -->
 <p align="center">
-  
   
 <!-- LinkedIn -->
   <a href='https://www.linkedin.com/in/ak-ram/'>
@@ -70,16 +62,11 @@
 <br/>
 
 
+- A recent graduate of Beni-Suef University with a bachelor's degree in Science. have passionate about front-end development and eager to learn and grow in this field.
 
+- Have a strong foundation in the core front-end technologies, including HTML, CSS, and JavaScript. I am also proficient in popular front-end frameworks and libraries, such as React. I have experience with version control systems (Git) and type checking (TypeScript).
 
-
-## ⚡ Recent GitHub Activity
-
-<!--START_SECTION:activity-->
-1. 🎉 Contribute in [Frontend-Interview-Questions](https://github.com/Ak-ram/Frontend-Interview-Questions) from here [#3](https://github.com/Ak-ram/Frontend-Interview-Questions/issues/3)
-2. ⌛ Build my Portfolio with [React/Typescript](https://github.com/Ak-ram/Akram_Portfolio)
-
- <!--END_SECTION:activity-->
+- Recently, I started to learn data structure and algorithms.
 
 
 
@@ -87,38 +74,11 @@
 
 
 
-## ❤ Follow me
-<p align='center'>
-
-<a href="https://www.linkedin.com/in/ak-ram" title='Akram A. Abdelbasir linkedin profile' >
-
-<!--   <img alt='linkedin-profile' src='https://linkedin-github.herokuapp.com/api/render/Akram%20A.%20Abdelbasir/Front-End%20Developer/ReactJS/Bachelors%20degree/dark/https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F69124951%3Fv%3D4'/> -->
-
-
-
-  <img alt='linkedin-profile' src='https://user-images.githubusercontent.com/69124951/193275227-c210b164-440c-4d61-94a5-592249e9533b.png' />
-</a>
-
-<a href='https://github.com/Ak-ram' title='Akram A. Abdelbasir GitHub profile'> 
-  <img width= '220' src="https://user-images.githubusercontent.com/69124951/189626469-5ff7080a-1429-4d8d-a218-8a3617b6ab18.png"/>
-  </a>
-</p>
-
-## 📘 My top open source projects
+## 📘 TOP OPEN SOURCE PROJECTS
 
 <!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
 <!-- Small repo cards (fork) - https://github.com/DenverCoder1/github-readme-stats -->
 
-
-
-
-<div align='center'>
-  <h3>Browse my Repos easly</h3>
-  <p>As my repos grow, I organise them into categories based on the languages I used to develop them.</p>
-<img width='600' src="https://user-images.githubusercontent.com/69124951/191378302-f78fe10e-39c7-414a-abee-5bc84dd2d6e9.gif"/>
-</div>
-
-<br/>
 
 
 
@@ -182,6 +142,15 @@
  
   
  
+## ⚡ RECENT GITHUB ACTIVITIES
+
+<!--START_SECTION:activity-->
+1. 🎉 Contribute in [Frontend-Interview-Questions](https://github.com/Ak-ram/Frontend-Interview-Questions) from here [#3](https://github.com/Ak-ram/Frontend-Interview-Questions/issues/3)
+2. ⌛ Build my Portfolio with [React/Typescript](https://github.com/Ak-ram/Akram_Portfolio)
+
+ <!--END_SECTION:activity-->
+
+
  
  
  ## 🚀 Some of my Pens

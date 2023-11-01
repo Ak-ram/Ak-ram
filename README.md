@@ -2,8 +2,10 @@
 <!-- [![Open Source Love png3](https://badges.frapsoft.com/os/v3/open-source.png?v=103)](https://github.com/ellerbrock/open-source-badges/) -->
 <!-- [![Sparkline](https://stars.medv.io/Naereen/badges.svg)](https://stars.medv.io/Ak-ram/badges) -->
 
+![github-header-image (3)](https://github.com/Ak-ram/Ak-ram/assets/69124951/d2216974-b511-4cf4-aa8c-d62bcb4d5cfe)
+
+
 <!-- https://github.com/Naereen/badges/blob/master/README.md -->
-![img](https://github.com/Ak-ram/Ak-ram/assets/69124951/79250261-758b-4cb1-a7fc-90d4120c8b3f)
 
 
 # Welcome to Akram's profile 

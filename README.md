@@ -182,6 +182,13 @@ console.log(profile);
  <img src="https://github.com/Ak-ram/Ak-ram/assets/69124951/9206d164-2832-4b8d-b0ee-a73a9584c355"  width="250" height="150px" alt="Holy Grail Flexbox Layout 🎃" />
  </a>
 
+<a href='https://dev.to/ak_ram/asynchronous-javascript-operations-understanding-canceling-pausing-and-resuming-4ih5' title="Asynchronous JavaScript Operations: Understanding, Canceling, Pausing, and Resuming" >
+ <img src="https://github.com/Ak-ram/Ak-ram/assets/69124951/64ec7042-75b7-409b-b133-43843a1c9d9f"  width="250" height="150px" alt="Asynchronous JavaScript Operations: Understanding, Canceling, Pausing, and Resuming
+" />
+ </a>
+
+
+
 <a href='https://dev.to/ak_ram/how-to-add-sass-to-your-project--32cn' title="How to add SASS to your project ?" >
  <img src="https://github.com/Ak-ram/Ak-ram/assets/69124951/7cd411eb-388d-490e-b367-aa2ef371f28e"  width="250" height="150px" alt="How to add SASS to your project ?" />
  </a>

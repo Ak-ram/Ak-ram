@@ -63,15 +63,27 @@
 
 <br/>
 
+```javascript
+const profile = {
+  education: {
+    degree: "Bachelor of Science 🧪",
+    university: "Beni-Suef University",
+  },
+  skills: {
+    frontend: {
+      coreTechnologies: ["HTML", "CSS", "JavaScript"],
+      frameworksAndLibraries: ["React"],
+    },
+    versionControlSystems: ["Git 📁"],
+    typeCheckingSystems: ["TypeScript ⚙️"],
+  },
+  interests: ["Data structures 📊", "Algorithms 💡"],
+  careerGoals: ["Become a front-end developer", "Contribute to the development of the web"],
+};
 
-- A recent graduate 🎓 of Beni-Suef University with a bachelor's degree in Science 🧪.
-- Passionate about front-end development 🖥️ and eager to learn and grow in this field. 📈
-- Have a strong foundation in the core front-end technologies, including HTML, CSS, and JavaScript. 🧱 🎨 🚀
-- I am also proficient in popular front-end frameworks and libraries, such as React. ⚛️
-- I have experience with version control systems (Git) 📁 and type checking (TypeScript). ⚙️
-- Recently, I started to learn data structure 📊 and algorithms. 💡
+console.log(profile);
 
-- I am excited to start my career as a front-end developer and to contribute to the development of the web. 🕸️
+```
 
 
 <!-- Some badges are from https://github.com/Ileriayo/markdown-badges -->

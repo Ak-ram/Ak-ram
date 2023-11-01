@@ -224,6 +224,11 @@ console.log(profile);
  <img src="https://github.com/Ak-ram/Ak-ram/assets/69124951/fa88bacc-a220-44ce-9d56-35eeb41170fd"  width="250" height="150px" alt="Data Caching With JS " />
  </a>
  
+ <a href='https://codepen.io/Akr-am/pen/wvXQeqd' title="CSS Split Image Animation" >
+ <img src="https://github.com/Ak-ram/Ak-ram/assets/69124951/d576e888-31e9-40b5-9138-b8479a835eb1"  width="250" height="150px" alt="CSS Split Image Animation" />
+ </a>
+ 
+
 
 <a href='https://codepen.io/Akr-am/pen/VwqKZzy?editors=0011' title="Encrypt and Decrypt data using js" >
  <img src="https://github.com/Ak-ram/Ak-ram/assets/69124951/9e34cf33-f230-43ff-be03-6e84d37e5b42"  width="250" height="150px" alt="Encrypt and Decrypt data using js" />

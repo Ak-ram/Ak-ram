@@ -217,45 +217,18 @@ console.log(profile);
  
  ## 🚀 SOME OF MY PENS
  
- <!-- CSS Shadow Animation -->
+
 
 
 <a href='https://codepen.io/Akr-am/pen/WNPxaxx' title="Drag & Drop image uploader" >
  <img src="https://github.com/Ak-ram/Ak-ram/assets/69124951/ecd9604c-2932-43e5-821e-b77d1c07b10b"  width="250" height="150px" alt="Drag & Drop image uploader" />
  </a>
  
- 
-   <!-- JS Arrow Animation -->
- <a href='https://codepen.io/Akr-am/pen/gOXKemZ' title="JS Arrow Animation" >
- <img src="https://user-images.githubusercontent.com/69124951/197331108-aff1dcef-1b6a-4c1a-96b7-ea95b00ec482.gif"  width="278" height="180px" alt="JS Arrow Animation" />
- </a>
- 
-  
- <!-- Space CSS Animation-->
- <a href='https://codepen.io/Akr-am/full/jOVvJGV' title="Space CSS Animation">
- <img src="https://user-images.githubusercontent.com/69124951/197331573-90233082-d163-4d5c-bdeb-981ed62acf72.gif"  width="278" height="180px" alt="Space CSS Animation" />
- </a>
- 
- 
-  <!-- Holy Grail Flexbox Layout -->
- <a href='https://codepen.io/Akr-am/pen/ZEBYWyX' title="Holy Grail Flexbox Layout">
- <img src="https://user-images.githubusercontent.com/69124951/197389695-6c30e4a0-e19a-44e1-b2b6-89f0116455c6.gif"  width="278" height="180px" alt="Space CSS Animation" />
- </a>
- 
 
+<a href='https://codepen.io/Akr-am/pen/VwqKZzy?editors=0011' title="Encrypt and Decrypt data using js" >
+ <img src="https://github.com/Ak-ram/Ak-ram/assets/69124951/9e34cf33-f230-43ff-be03-6e84d37e5b42"  width="250" height="150px" alt="Encrypt and Decrypt data using js" />
+ </a>
  
-  <!-- CSS Clock Animation-->
-  <a href='https://codepen.io/Akr-am/pen/abBMwBb' title="CSS Clock Animation">
- <img src="https://user-images.githubusercontent.com/69124951/197332571-059ad37c-d4a5-4c5f-a214-c6da19f1f8f2.gif" width= "405px" height="180px" alt="CSS Clock Animation" />
- </a> 
- 
- 
- <!-- JS Tooltip Effect-->
-  <a href='https://codepen.io/Akr-am/full/QWKyQZx' title="JS Tooltip Effect">
- <img src="https://user-images.githubusercontent.com/69124951/197332978-1246b10e-0f0f-4dc4-9c3a-e9f3837efac0.gif" width= "150px" height="180px" alt="CSS Clock Animation" />
- </a> 
- 
-
  
 
 

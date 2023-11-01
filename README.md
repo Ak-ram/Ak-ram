@@ -189,6 +189,13 @@ console.log(profile);
 
 
 
+<a href='https://dev.to/ak_ram/sass-placeholder-selector-4cj8' title="Sass: Placeholder Selector 📎" >
+ <img src="https://github.com/Ak-ram/Ak-ram/assets/69124951/e28aff8f-b307-4b8e-a206-78a23dacd9e8"  width="250" height="150px" alt="Sass: Placeholder Selector 📎" />
+ </a>
+
+
+
+
 <a href='https://dev.to/ak_ram/how-to-add-sass-to-your-project--32cn' title="How to add SASS to your project ?" >
  <img src="https://github.com/Ak-ram/Ak-ram/assets/69124951/7cd411eb-388d-490e-b367-aa2ef371f28e"  width="250" height="150px" alt="How to add SASS to your project ?" />
  </a>

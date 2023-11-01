@@ -169,6 +169,15 @@ console.log(profile);
  
   
  
+ ## 🚀 Blog
+ 
+ <!-- CSS Shadow Animation -->
+
+
+<a href='https://dev.to/ak_ram/nested-dynamic-routes-in-react-router-v6-4pgj' title="Nested Dynamic Routes in React Router v6" >
+ <img src="https://github.com/Ak-ram/Ak-ram/assets/69124951/42a3e106-31d5-41ef-b0fa-b9705341980a"  width="250" height="150px" alt="Nested Dynamic Routes in React Router v6" />
+ </a>
+ 
 ## ⚡ RECENT GITHUB ACTIVITIES
 
 <!--START_SECTION:activity-->

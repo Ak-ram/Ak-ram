@@ -177,6 +177,16 @@ console.log(profile);
 <a href='https://dev.to/ak_ram/nested-dynamic-routes-in-react-router-v6-4pgj' title="Nested Dynamic Routes in React Router v6" >
  <img src="https://github.com/Ak-ram/Ak-ram/assets/69124951/42a3e106-31d5-41ef-b0fa-b9705341980a"  width="250" height="150px" alt="Nested Dynamic Routes in React Router v6" />
  </a>
+
+<a href='https://dev.to/ak_ram/holy-grail-flexbox-layout-3og7' title="Holy Grail Flexbox Layout 🎃" >
+ <img src="https://github.com/Ak-ram/Ak-ram/assets/69124951/9206d164-2832-4b8d-b0ee-a73a9584c355"  width="250" height="150px" alt="Holy Grail Flexbox Layout 🎃" />
+ </a>
+
+<a href='https://dev.to/ak_ram/how-to-add-sass-to-your-project--32cn' title="How to add SASS to your project ?" >
+ <img src="https://github.com/Ak-ram/Ak-ram/assets/69124951/7cd411eb-388d-490e-b367-aa2ef371f28e"  width="250" height="150px" alt="How to add SASS to your project ?" />
+ </a>
+
+
  
 ## ⚡ RECENT GITHUB ACTIVITIES
 

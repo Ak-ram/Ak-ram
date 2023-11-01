@@ -220,8 +220,8 @@ console.log(profile);
 
 
 
-<a href='https://codepen.io/Akr-am/pen/WNPxaxx' title="Drag & Drop image uploader" >
- <img src="https://github.com/Ak-ram/Ak-ram/assets/69124951/ecd9604c-2932-43e5-821e-b77d1c07b10b"  width="250" height="150px" alt="Drag & Drop image uploader" />
+<a href='https://codepen.io/Akr-am/pen/WNLRoYY?editors=1010' title="Data Caching With JS " >
+ <img src="https://github.com/Ak-ram/Ak-ram/assets/69124951/fa88bacc-a220-44ce-9d56-35eeb41170fd"  width="250" height="150px" alt="Data Caching With JS " />
  </a>
  
 
@@ -229,6 +229,9 @@ console.log(profile);
  <img src="https://github.com/Ak-ram/Ak-ram/assets/69124951/9e34cf33-f230-43ff-be03-6e84d37e5b42"  width="250" height="150px" alt="Encrypt and Decrypt data using js" />
  </a>
  
+ <a href='https://codepen.io/Akr-am/pen/WNPxaxx' title="Drag & Drop image uploader" >
+ <img src="https://github.com/Ak-ram/Ak-ram/assets/69124951/ecd9604c-2932-43e5-821e-b77d1c07b10b"  width="250" height="150px" alt="Drag & Drop image uploader" />
+ </a>
  
 
 

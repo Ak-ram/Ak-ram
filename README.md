@@ -237,8 +237,11 @@ console.log(profile);
  <a href='https://codepen.io/Akr-am/pen/WNPxaxx' title="Drag & Drop image uploader" >
  <img src="https://github.com/Ak-ram/Ak-ram/assets/69124951/ecd9604c-2932-43e5-821e-b77d1c07b10b"  width="250" height="150px" alt="Drag & Drop image uploader" />
  </a>
- 
 
+ <a href='https://codepen.io/Akr-am/full/JjvedzJ' title="CSS Shadow Animation " >
+ <img src="https://github.com/Ak-ram/Ak-ram/assets/69124951/5feee168-964c-4a25-998a-ae4e71a782b9"  width="250" height="150px" alt="CSS Shadow Animation" />
+ </a>
+ 
 
   
   

@@ -137,10 +137,9 @@
 > ### 1. VS Code Snippets Repos
 
 <p align='left'>
-  <a href="https://github.com/Ak-ram/scss-helpers"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Ak-ram&repo=scss-helpers&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-scss-helpers-repo"></a>
+  <a href="https://github.com/Ak-ram/scss-helpers"><img width="278" src=https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Ak-ram&repo=scss-helpers&theme=react&bg_color=1F222e&title_color=00CCFF&hide_border=true&border_color=00CCFF&icon_color=00CCFF&show_icons=true" 
+ alt="github-scss-helpers-repo"></a>
 </p>
-
-
 
 <br/>
 

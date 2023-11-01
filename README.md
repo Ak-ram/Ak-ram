@@ -64,12 +64,14 @@
 <br/>
 
 
-- A recent graduate of Beni-Suef University with a bachelor's degree in Science. have passionate about front-end development and eager to learn and grow in this field.
+- A recent graduate 🎓 of Beni-Suef University with a bachelor's degree in Science 🧪.
+- Passionate about front-end development 🖥️ and eager to learn and grow in this field. 📈
+- Have a strong foundation in the core front-end technologies, including HTML, CSS, and JavaScript. 🧱 🎨 🚀
+- I am also proficient in popular front-end frameworks and libraries, such as React. ⚛️
+- I have experience with version control systems (Git) 📁 and type checking (TypeScript). ⚙️
+- Recently, I started to learn data structure 📊 and algorithms. 💡
 
-- Have a strong foundation in the core front-end technologies, including HTML, CSS, and JavaScript. I am also proficient in popular front-end frameworks and libraries, such as React. I have experience with version control systems (Git) and type checking (TypeScript).
-
-- Recently, I started to learn data structure and algorithms.
-
+- I am excited to start my career as a front-end developer and to contribute to the development of the web. 🕸️
 
 
 <!-- Some badges are from https://github.com/Ileriayo/markdown-badges -->

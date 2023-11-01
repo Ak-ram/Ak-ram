@@ -193,7 +193,9 @@ console.log(profile);
  <img src="https://github.com/Ak-ram/Ak-ram/assets/69124951/e28aff8f-b307-4b8e-a206-78a23dacd9e8"  width="250" height="150px" alt="Sass: Placeholder Selector 📎" />
  </a>
 
-
+<a href='https://dev.to/ak_ram/3-minute-gitflow-branching-model-151l' title="3-minute Gitflow branching model 🎯" >
+ <img src="https://github.com/Ak-ram/Ak-ram/assets/69124951/b49b65f6-7480-4e07-938e-6fb958faffe3"  width="250" height="150px" alt="3-minute Gitflow branching model 🎯" />
+ </a>
 
 
 <a href='https://dev.to/ak_ram/how-to-add-sass-to-your-project--32cn' title="How to add SASS to your project ?" >

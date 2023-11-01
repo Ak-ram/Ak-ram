@@ -2,7 +2,7 @@
 <!-- [![Open Source Love png3](https://badges.frapsoft.com/os/v3/open-source.png?v=103)](https://github.com/ellerbrock/open-source-badges/) -->
 <!-- [![Sparkline](https://stars.medv.io/Naereen/badges.svg)](https://stars.medv.io/Ak-ram/badges) -->
 
-![github-header-image (3)](https://github.com/Ak-ram/Ak-ram/assets/69124951/d2216974-b511-4cf4-aa8c-d62bcb4d5cfe)
+![github-header-image (7)](https://github.com/Ak-ram/Ak-ram/assets/69124951/020499ed-62b0-4327-a1dc-bd9087a620d7)
 
 
 <!-- https://github.com/Naereen/badges/blob/master/README.md -->

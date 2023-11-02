@@ -3,8 +3,10 @@
 <!-- [![Sparkline](https://stars.medv.io/Naereen/badges.svg)](https://stars.medv.io/Ak-ram/badges) -->
 
 # Welcome to my profile 
-![github-header-image (7)](https://github.com/Ak-ram/Ak-ram/assets/69124951/020499ed-62b0-4327-a1dc-bd9087a620d7)
+<!-- ![github-header-image (7)](https://github.com/Ak-ram/Ak-ram/assets/69124951/020499ed-62b0-4327-a1dc-bd9087a620d7) -->
 
+
+![Akram](https://github.com/Ak-ram/Ak-ram/assets/69124951/675dda5e-8435-487a-bc13-378e57bdcbf2)
 
 <!-- https://github.com/Naereen/badges/blob/master/README.md -->
 

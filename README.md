@@ -67,7 +67,7 @@
 <br/>
 
 ```javascript
-> A recent graduate from the Faculty of Science at Beni-Suef University with a strong passion for front-end development.
+> A recent graduate from the Faculty of Science with a strong passion for front-end development.
 
 > During my studies,
  - I gained a solid foundation in the core front-end technologies of HTML, CSS, and JavaScript.

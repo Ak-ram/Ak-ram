@@ -67,24 +67,24 @@
 <br/>
 
 ```javascript
-const profile = {
-  education: {
-    degree: "Bachelor of Science 🧪",
-    university: "Beni-Suef University",
-  },
-  skills: {
-    frontend: {
-      coreTechnologies: ["HTML", "CSS", "JavaScript"],
-      frameworksAndLibraries: ["React"],
-    },
-    versionControlSystems: ["Git 📁"],
-    typeCheckingSystems: ["TypeScript ⚙️"],
-  },
-  interests: ["Data structures 📊", "Algorithms 💡"],
-  careerGoals: ["Become a front-end developer", "Contribute to the development of the web"],
-};
+> A recent graduate from the Faculty of Science at Beni-Suef University with a strong passion for front-end development.
 
-console.log(profile);
+During my studies, I gained a solid foundation in the core front-end technologies of HTML, CSS, and JavaScript.
+I also have experience with front-end frameworks such as React, as well as version control systems such as Git.
+In addition, I am proficient in TypeScript, a type checking system that can help to improve the quality and
+maintainability of JavaScript code.
+
+In my free time, I enjoy learning about new technologies and trends in the web development industry.
+I am also passionate about data structures and algorithms, and I am always looking for new ways to
+apply them to solve real-world problems.
+
+I am a highly motivated and quick learner, and I am confident that I can quickly adapt to the
+demands of a fast-paced development environment.
+I am also a team player and I am always eager to collaborate with others to achieve common goals.
+
+I am looking for a challenging and rewarding opportunity as a front-end developer where I can use
+my skills and knowledge to build high-quality web applications.
+I am confident that I can make a significant contribution to your team and I look forward to hearing from you.
 
 ```
 

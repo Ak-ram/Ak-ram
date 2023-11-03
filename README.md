@@ -76,11 +76,8 @@
    maintainability of JavaScript code.
 
 > In my free time, I enjoy learning about new technologies and trends in the web development industry.
-> I am also passionate about data structures and algorithms, and I am always looking for new ways to
-  apply them to solve real-world problems.
-
-> I am a highly motivated and quick learner, and I am confident that I can quickly adapt to the
-  demands of a fast-paced development environment.
+> Passionate about data structures and algorithms, always seeking new ways to apply them.
+> Highly motivated, quick learner ready to adapt to fast-paced development environment.
 > I am also a team player and I am always eager to collaborate with others to achieve common goals.
 
 > Looking for a challenging opportunity where I can use my skills to build high-quality web applications.

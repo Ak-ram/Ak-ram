@@ -226,6 +226,14 @@ console.log(profile);
 <a href='https://codepen.io/Akr-am/pen/WNLRoYY?editors=1010' title="Data Caching With JS " >
  <img src="https://github.com/Ak-ram/Ak-ram/assets/69124951/fa88bacc-a220-44ce-9d56-35eeb41170fd"  width="250" height="150px" alt="Data Caching With JS " />
  </a>
+
+
+ <a href='https://codepen.io/Akr-am/pen/rNPWBRd' title="Gradient Colors JS Generator" >
+ <img src="https://github.com/Ak-ram/Ak-ram/assets/69124951/5d0f521a-f733-45bd-86bf-df119414386f"  width="250" height="150px" alt="Gradient Colors JS Generator" />
+ </a>
+ 
+
+
  
  <a href='https://codepen.io/Akr-am/pen/wvXQeqd' title="CSS Split Image Animation" >
  <img src="https://github.com/Ak-ram/Ak-ram/assets/69124951/d576e888-31e9-40b5-9138-b8479a835eb1"  width="250" height="150px" alt="CSS Split Image Animation" />

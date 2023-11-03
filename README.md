@@ -83,9 +83,9 @@
   demands of a fast-paced development environment.
 > I am also a team player and I am always eager to collaborate with others to achieve common goals.
 
-> I am looking for a challenging and rewarding opportunity as a front-end developer where I can use
-  my skills and knowledge to build high-quality web applications.
-> I am confident that I can make a significant contribution to your team and I look forward to hearing from you.
+> Looking for a challenging opportunity where I can use my skills to build high-quality web applications.
+> Confident in making a significant contribution to your team. Look forward to hearing from you.
+
 
 ```
 

@@ -226,6 +226,12 @@
  </a>
 
 
+
+ <a href='https://codepen.io/Akr-am/pen/ExrNpvG' title="QR-Code Generator" >
+ <img src="https://github.com/Ak-ram/Ak-ram/assets/69124951/414166a1-8ac5-4f7e-bed0-9a2aa352c006"  width="250" height="150px" alt="QR-Code Generator" />
+ </a>
+
+
  <a href='https://codepen.io/Akr-am/pen/rNPWBRd' title="Gradient Colors JS Generator" >
  <img src="https://github.com/Ak-ram/Ak-ram/assets/69124951/5d0f521a-f733-45bd-86bf-df119414386f"  width="250" height="150px" alt="Gradient Colors JS Generator" />
  </a>

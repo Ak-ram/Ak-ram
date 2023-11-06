@@ -2,6 +2,10 @@
 <!-- [![Open Source Love png3](https://badges.frapsoft.com/os/v3/open-source.png?v=103)](https://github.com/ellerbrock/open-source-badges/) -->
 <!-- [![Sparkline](https://stars.medv.io/Naereen/badges.svg)](https://stars.medv.io/Ak-ram/badges) -->
 
+<!-- [![Repo 1 stars](https://img.shields.io/github/stars/your-username/repo-1.svg?style=social)](https://github.com/your-username/repo-1)
+[![Repo 2 forks](https://img.shields.io/github/forks/your-username/repo-2.svg?style=social)](https://github.com/your-username/repo-2)
+[![Repo 3 watchers](https://img.shields.io/github/watchers/your-username/repo-3.svg?style=social)](https://github.com/your-username/repo-3)-->
+
 # Welcome to my profile 
 <!-- ![github-header-image (7)](https://github.com/Ak-ram/Ak-ram/assets/69124951/020499ed-62b0-4327-a1dc-bd9087a620d7) -->
 
@@ -12,10 +16,7 @@
 <!-- https://github.com/Naereen/badges/blob/master/README.md -->
 
 
-
-## ⚡ ABOUT ME
-
-
+> ## ⚡ ABOUT ME
 
 <!--Previous font: Silkscreen-->
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
@@ -66,30 +67,40 @@
 
 <br/>
 
-```javascript
-> A recent graduate from the Faculty of Science with a strong passion for front-end development.
+A recent graduate from the Faculty of Science with a strong passion for front-end development.
 
-> During my studies,
- - I gained a solid foundation in the core front-end technologies of HTML, CSS, and JavaScript.
- - I also have experience with front-end frameworks such as React, as well as version control systems such as Git.
- - In addition, I am proficient in TypeScript, a type checking system that can help to improve the quality and
-   maintainability of JavaScript code.
+### Skills and Experience
 
-> In my free time, I enjoy learning about new technologies and trends in the web development industry.
-> Passionate about data structures and algorithms, always seeking new ways to apply them.
-> Highly motivated, quick learner ready to adapt to fast-paced development environment.
-> I am also a team player and I am always eager to collaborate with others to achieve common goals.
+* Solid foundation in core front-end technologies: HTML, CSS, and JavaScript
+* Experience with front-end frameworks: React
+* Proficient in TypeScript, a type checking system for JavaScript
+* Experience with version control systems: Git
 
-> Looking for a challenging opportunity where I can use my skills to build high-quality web applications.
-> Confident in making a significant contribution to your team. Look forward to hearing from you.
+### Personal Interests
 
+* Learning about new technologies and trends in the web development industry
+* Exploring data structures and algorithms
+* Applying data structures and algorithms to solve real-world problems
 
-```
+### Professional Qualities
+
+* Highly motivated and quick learner
+* Adaptable to fast-paced development environments
+* Team player and collaborative spirit
+
+### Career Goals
+
+Seeking a challenging opportunity to apply front-end development skills to build high-quality web applications.
+Confident in making a significant contribution to a team and eager to learn new things.
+
+### Contact
+
+Look forward to hearing from you!
 
 
 <!-- Some badges are from https://github.com/Ileriayo/markdown-badges -->
 
-## 🛠️ SKILLS
+> ## 🛠️ SKILLS
 
 | # | Category | Tools | 
 |---|---|---|
@@ -103,7 +114,7 @@
 
 
 
-## 📘 TOP OPEN SOURCE PROJECTS
+> ## 📘 TOP OPEN SOURCE PROJECTS
 
 <!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
 <!-- Small repo cards (fork) - https://github.com/DenverCoder1/github-readme-stats -->
@@ -115,9 +126,9 @@
 
 <p align='left'>
   <a href="https://github.com/Ak-ram/scss-helpers">
-  <div class='class='mb-0'><img src='https://github.com/Ak-ram/Ak-ram/assets/69124951/54ac396f-d3fc-4a58-a717-d47e92632b1d' width='278' /></div>
-    <div class='mt-0'><img width="278" src=https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Ak-ram&repo=scss-helpers&theme=react&bg_color=1F222e&title_color=F85D7F&hide_border=true&border_color=00CCFF&icon_color=F85D7F&show_icons=true" 
- alt="github-scss-helpers-repo"></div>
+  <div class='class='mb-0'><img src='https://github.com/Ak-ram/Ak-ram/assets/69124951/54ac396f-d3fc-4a58-a717-d47e92632b1d' width='278' /> <div class='mt-0'><img width="278" src=https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Ak-ram&repo=scss-helpers&theme=react&bg_color=1F222e&title_color=F85D7F&hide_border=true&border_color=00CCFF&icon_color=F85D7F&show_icons=true" 
+ alt="github-scss-helpers-repo"></div></div>
+   
   </a>
 </p>
 
@@ -162,7 +173,7 @@
  
   
   
-## 📕 TOP PROJECTS I'VE CONTRIBUTE TO
+> ## 📕 TOP PROJECTS I'VE CONTRIBUTE TO
 
 <!-- Small repo cards https://github.com/DenverCoder1/github-readme-stats (fork of anuraghazra/github-readme-stats) -->
 <p align="left">
@@ -173,7 +184,7 @@
  
   
  
- ## 🚀 Blog
+> ## 🚀 Blog
  
  <!-- CSS Shadow Animation -->
 
@@ -208,7 +219,7 @@
 
 
  
-## ⚡ RECENT GITHUB ACTIVITIES
+> ## ⚡ RECENT GITHUB ACTIVITIES
 
 <!--START_SECTION:activity-->
 1. 🎉 Contribute in [Frontend-Interview-Questions](https://github.com/Ak-ram/Frontend-Interview-Questions) from here [#3](https://github.com/Ak-ram/Frontend-Interview-Questions/issues/3)
@@ -219,7 +230,7 @@
 
  
  
- ## 🚀 SOME OF MY PENS
+ > ## 🚀 SOME OF MY PENS
  
 
 
@@ -263,7 +274,7 @@
 
   
   
-## 🔥 STREAK STATS
+> ## 🔥 STREAK STATS
 
 <!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
 <p align="center">
@@ -284,7 +295,7 @@
   
   
   
-## 📊 GITHUB STATS
+> ## 📊 GITHUB STATS
 
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 <details> 

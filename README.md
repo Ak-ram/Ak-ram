@@ -299,7 +299,11 @@ Confident in making a significant contribution to a team 🎯 and eager to learn
   
 <!--   <a href="https://github.com/Ak-ram"><img alt="Akram's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ak-ram&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook" height="192px"/></a> -->
   <br/>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+
+ 
+  
+> [!NOTE]
+> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 </details>
 
 <!-- https://github.com/jamesgeorge007/github-activity-readme -->

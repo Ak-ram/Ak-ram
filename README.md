@@ -106,20 +106,27 @@ Confident in making a significant contribution to a team 🎯 and eager to learn
 
 <br/>
 
+> [!important]
 > ## 📘 TOP OPEN SOURCE PROJECTS
 
 <!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
 <!-- Small repo cards (fork) - https://github.com/DenverCoder1/github-readme-stats -->
 
-
+> [!note]
+> - **This section showcases all of my repositories.**
+> - **The repositories are categorized based on the programming language used for their development.**
+> - **Clicking on a repository will direct you to its GitHub page for further information.**
 
 
 > ### 1. VS Code Snippets Repos
 
+
+
+
 <p align='left'>
   <a href="https://github.com/Ak-ram/scss-helpers">
-  <div class='class='mb-0'><img src='https://github.com/Ak-ram/Ak-ram/assets/69124951/54ac396f-d3fc-4a58-a717-d47e92632b1d' width='278' /> <div class='mt-0'><img width="278" src=https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Ak-ram&repo=scss-helpers&theme=react&bg_color=1F222e&title_color=F85D7F&hide_border=true&border_color=00CCFF&icon_color=F85D7F&show_icons=true" 
- alt="github-scss-helpers-repo"></div></div>
+<img width="278" src=https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Ak-ram&repo=scss-helpers&theme=react&bg_color=1F222e&title_color=F85D7F&hide_border=true&border_color=00CCFF&icon_color=F85D7F&show_icons=true" 
+ alt="github-scss-helpers-repo">
    
   </a>
 </p>

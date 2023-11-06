@@ -66,41 +66,36 @@
 </p>
 
 <br/>
-
-A recent graduate from the Faculty of Science with a strong passion for front-end development.
+A recent graduate from the Faculty of Science with a strong passion for front-end development 🚀.
 
 ### Skills and Experience
 
-* Solid foundation in core front-end technologies: HTML, CSS, and JavaScript
-* Experience with front-end frameworks: React
-* Proficient in TypeScript, a type checking system for JavaScript
-* Experience with version control systems: Git
+* Solid foundation in core front-end technologies: HTML, CSS, and JavaScript 🌐
+* Experience with front-end frameworks: React ✨
+* Proficient in TypeScript, a type checking system for JavaScript TypeScript
+* Experience with version control systems: Git ⚙️
 
 ### Personal Interests
 
-* Learning about new technologies and trends in the web development industry
-* Exploring data structures and algorithms
-* Applying data structures and algorithms to solve real-world problems
+* Learning about new technologies and trends in the web development industry 💻
+* Exploring data structures and algorithms 🧠
+* Applying data structures and algorithms to solve real-world problems 💡
 
 ### Professional Qualities
 
-* Highly motivated and quick learner
-* Adaptable to fast-paced development environments
-* Team player and collaborative spirit
-
-### Career Goals
-
-Seeking a challenging opportunity to apply front-end development skills to build high-quality web applications.
-Confident in making a significant contribution to a team and eager to learn new things.
-
-### Contact
-
-Look forward to hearing from you!
-
+* Highly motivated and quick learner 🚀
+* Adaptable to fast-paced development environments 🏃‍♀️🏃‍♂️
+* Team player and collaborative spirit 🤝
 
 <!-- Some badges are from https://github.com/Ileriayo/markdown-badges -->
+### Career Goals
 
-> ## 🛠️ SKILLS
+Seeking a challenging opportunity to apply front-end development skills to build high-quality web applications. 🏗️
+Confident in making a significant contribution to a team 🎯 and eager to learn new things. 📚
+
+<br/>
+
+> ## 🛠️ SKILLS LIST
 
 | # | Category | Tools | 
 |---|---|---|
@@ -109,10 +104,7 @@ Look forward to hearing from you!
 | 3 | Others | <a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white"></a> <a href="#"><img alt="Codepen" src="https://img.shields.io/badge/Codepen-000000.svg?logo=codepen&logoColor=white"></a> <a href="#"><img alt="Discord" src="https://img.shields.io/badge/-Discord-5865F2.svg?logo=discord&logoColor=white"></a> <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"></a> <a href="#"><img alt="GitHub Desktop" src="https://img.shields.io/badge/GitHub%20Desktop-8034A9.svg?logo=github&logoColor=white"></a> <a href="#"><img alt="Google Sheets" src="https://img.shields.io/badge/Google%20Sheets-34A853.svg?logo=google%20sheets&logoColor=white"></a> <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a> <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a> <a href="#"><img alt="WebStorm" src="https://img.shields.io/badge/WebStorm-000000?logo=WebStorm&logoColor=white"></a> |
 
 
-
-
-
-
+<br/>
 
 > ## 📘 TOP OPEN SOURCE PROJECTS
 
@@ -146,9 +138,6 @@ Look forward to hearing from you!
 </p>
 
 
-
-<br/>
-
 > ### 3. HTML, CSS, & JS Repos
 
 <p align="left">
@@ -160,19 +149,7 @@ Look forward to hearing from you!
 <a href="https://github.com/Ak-ram/Ctyptex"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Ak-ram&repo=Ctyptex&theme=react&bg_color=1F222E&title_color=F8D866&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-Ctyptex-repo"></a>
 </p>
 
-  
-  
-  
-
-  
-  
-  
-  
-  
-  
- 
-  
-  
+<br/>
 > ## 📕 TOP PROJECTS I'VE CONTRIBUTE TO
 
 <!-- Small repo cards https://github.com/DenverCoder1/github-readme-stats (fork of anuraghazra/github-readme-stats) -->
@@ -181,9 +158,7 @@ Look forward to hearing from you!
   <a href="https://github.com/opensourcedesign
 /opensourcedesign.github.io"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=opensourcedesign&repo=opensourcedesign.github.io&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-stats"></a>
 <a href="https://github.com/firstcontributions/first-contributions"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=firstcontributions&repo=first-contributions&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="shields"></a>
- 
-  
- 
+<br/>
 > ## 🚀 Blog
  
  <!-- CSS Shadow Animation -->
@@ -202,8 +177,6 @@ Look forward to hearing from you!
 " />
  </a>
 
-
-
 <a href='https://dev.to/ak_ram/sass-placeholder-selector-4cj8' title="Sass: Placeholder Selector 📎" >
  <img src="https://github.com/Ak-ram/Ak-ram/assets/69124951/e28aff8f-b307-4b8e-a206-78a23dacd9e8"  width="250" height="150px" alt="Sass: Placeholder Selector 📎" />
  </a>
@@ -214,10 +187,8 @@ Look forward to hearing from you!
 
 
 <a href='https://dev.to/ak_ram/how-to-add-sass-to-your-project--32cn' title="How to add SASS to your project ?" >
- <img src="https://github.com/Ak-ram/Ak-ram/assets/69124951/7cd411eb-388d-490e-b367-aa2ef371f28e"  width="250" height="150px" alt="How to add SASS to your project ?" />
- </a>
-
-
+ <img src="https://github.com/Ak-ram/Ak-ram/assets/69124951/7cd411eb-388d-490e-b367-aa2ef371f28e"  width="250" height="150px" alt="How to add SASS to your project ?" /></a>
+<br/><br/>
  
 > ## ⚡ RECENT GITHUB ACTIVITIES
 
@@ -228,7 +199,7 @@ Look forward to hearing from you!
  <!--END_SECTION:activity-->
 
 
- 
+ <br/>
  
  > ## 🚀 SOME OF MY PENS
  
@@ -268,11 +239,8 @@ Look forward to hearing from you!
  </a>
 
  <a href='https://codepen.io/Akr-am/full/JjvedzJ' title="CSS Shadow Animation " >
- <img src="https://github.com/Ak-ram/Ak-ram/assets/69124951/5feee168-964c-4a25-998a-ae4e71a782b9"  width="250" height="150px" alt="CSS Shadow Animation" />
- </a>
- 
-
-  
+ <img src="https://github.com/Ak-ram/Ak-ram/assets/69124951/5feee168-964c-4a25-998a-ae4e71a782b9"  width="250" height="150px" alt="CSS Shadow Animation" /></a>
+<br/><br/>
   
 > ## 🔥 STREAK STATS
 
@@ -292,8 +260,7 @@ Look forward to hearing from you!
   
   
   
-  
-  
+<br/> 
   
 > ## 📊 GITHUB STATS
 

@@ -6,6 +6,14 @@
 [![Repo 2 forks](https://img.shields.io/github/forks/your-username/repo-2.svg?style=social)](https://github.com/your-username/repo-2)
 [![Repo 3 watchers](https://img.shields.io/github/watchers/your-username/repo-3.svg?style=social)](https://github.com/your-username/repo-3)-->
 
+>[!IMPORTANT]
+>## Goals
+>| | Goal | Progress |
+>|---|---|---|
+>| 1 | Data Structures | 50% |
+>| 2 | Algorithms | 10% |
+>| 3 | Object-Oriented Programming (OOP) Principles | 0% |
+
 # Welcome to my profile 
 <!-- ![github-header-image (7)](https://github.com/Ak-ram/Ak-ram/assets/69124951/020499ed-62b0-4327-a1dc-bd9087a620d7) -->
 

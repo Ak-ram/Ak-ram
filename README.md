@@ -1,5 +1,5 @@
 <!-- ![Profile views](https://gpvc.arturio.dev/Ak-ram) -->
-<!-- [![Open Source Love png3](https://badges.frapsoft.com/os/v3/open-source.png?v=103)](https://github.com/ellerbrock/open-source-badges/) -->
+
 <!-- [![Sparkline](https://stars.medv.io/Naereen/badges.svg)](https://stars.medv.io/Ak-ram/badges) -->
 
 <!-- [![Repo 1 stars](https://img.shields.io/github/stars/your-username/repo-1.svg?style=social)](https://github.com/your-username/repo-1)
@@ -27,7 +27,6 @@
 </details>
 
 # Welcome to my profile 
-<!-- ![github-header-image (7)](https://github.com/Ak-ram/Ak-ram/assets/69124951/020499ed-62b0-4327-a1dc-bd9087a620d7) -->
 
 ![إضافة عنوان](https://github.com/Ak-ram/Ak-ram/assets/69124951/2c6b2b25-6758-42a1-95f9-bbf73a6a219e)
 
@@ -127,7 +126,7 @@ Confident in making a significant contribution to a team 🎯 and eager to learn
 <br/>
 
 
-> ## 📘 TOP OPEN SOURCE PROJECTS
+> ## 📘 TOP OPEN SOURCE PROJECTS  [![Open Source Love png3](https://badges.frapsoft.com/os/v3/open-source.png?v=103)](https://github.com/ellerbrock/open-source-badges/) 
 
 <!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
 <!-- Small repo cards (fork) - https://github.com/DenverCoder1/github-readme-stats -->

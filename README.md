@@ -150,6 +150,7 @@ Confident in making a significant contribution to a team 🎯 and eager to learn
 </p>
 
 <br/>
+
 > ## 📕 TOP PROJECTS I'VE CONTRIBUTE TO
 
 <!-- Small repo cards https://github.com/DenverCoder1/github-readme-stats (fork of anuraghazra/github-readme-stats) -->
@@ -159,7 +160,7 @@ Confident in making a significant contribution to a team 🎯 and eager to learn
 /opensourcedesign.github.io"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=opensourcedesign&repo=opensourcedesign.github.io&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-stats"></a>
 <a href="https://github.com/firstcontributions/first-contributions"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=firstcontributions&repo=first-contributions&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="shields"></a>
 <br/>
-> ## 🚀 Blog
+> ## 🚀 BLOG
  
  <!-- CSS Shadow Animation -->
 

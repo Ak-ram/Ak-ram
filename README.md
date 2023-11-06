@@ -126,7 +126,7 @@ Confident in making a significant contribution to a team 🎯 and eager to learn
 
 <br/>
 
-> [!important]
+
 > ## 📘 TOP OPEN SOURCE PROJECTS
 
 <!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->

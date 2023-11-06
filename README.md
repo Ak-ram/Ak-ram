@@ -7,12 +7,15 @@
 [![Repo 3 watchers](https://img.shields.io/github/watchers/your-username/repo-3.svg?style=social)](https://github.com/your-username/repo-3)-->
 
 >[!IMPORTANT]
->## Goals
->| | Goal | Progress |
->|---|---|---|
->| 1 | Data Structures | 50% |
->| 2 | Algorithms | 10% |
->| 3 | Object-Oriented Programming (OOP) Principles | 0% |
+>## Goals for 2023
+> - This section outlines my goals for 2023 and the progress I've made towards achieving them.
+> - Dedicated to achieving my goals through continuous effort. Progress updates will be provided regularly.
+>   
+>| | Goal | Source | Progress |
+>|---|---|---|---|
+>| 1 | Data Structures| [link](https://cloudnativebasecamp.com/) | 50% |
+>| 2 | Algorithms| [link](https://cloudnativebasecamp.com/) | 10% |
+>| 3 | Object-Oriented Programming (OOP) Principles| NULL | 0% |
 
 # Welcome to my profile 
 <!-- ![github-header-image (7)](https://github.com/Ak-ram/Ak-ram/assets/69124951/020499ed-62b0-4327-a1dc-bd9087a620d7) -->

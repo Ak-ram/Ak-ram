@@ -8,13 +8,13 @@
 
 
 <details>
-<summary>2023 Goals ⬇️ (Click to expand/collapse)</summary> 
+<summary>2024 Goals ⬇️ (Click to expand/collapse)</summary> 
   
   <br/>
   
 > [!IMPORTANT]
 >
-> ## Goals for 2023
+> ## Goals for 2024
 > - This section outlines my goals for 2024 and the progress I've made towards achieving them.
 > - Dedicated to achieving my goals through continuous effort. Progress updates will be provided regularly.
 >   
@@ -23,6 +23,8 @@
 >   | 1 | Data Structures                          | [link](https://cloudnativebasecamp.com/)         | 100%  ✅    |
 >   | 2 | Algorithms                                | [link](https://cloudnativebasecamp.com/)         | 33%      |
 >   | 3 | Object-Oriented Programming (OOP) Principles | NULL                                             | 0%       |
+>   | 4 | NodeJS                                        |   [link](https://cloudnativebasecamp.com/)    | 50%       |
+>   | 5 | AngularJS                                        |   [link](https://angular.io/)    | 10%       |
 
 </details>
 

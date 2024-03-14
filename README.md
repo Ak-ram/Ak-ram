@@ -160,7 +160,6 @@ Confident in making a significant contribution to a team 🎯 and eager to learn
 <p align='left'>
 <!-- <a href="https://github.com/Ak-ram/Dropit"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Ak-ram&repo=Dropit&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-Dropit-repo"></a> -->
 <a href="https://github.com/Ak-ram/Moviideck"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Ak-ram&repo=Moviideck&theme=react&bg_color=1F222E&title_color=00ccee&hide_border=true&icon_color=00ccee&show_icons=false" alt="github-Moviideck-repo"></a>
-<a href="https://github.com/Ak-ram/quran-player"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Ak-ram&repo=quran-player&theme=react&bg_color=1F222E&title_color=00ccee&hide_border=true&icon_color=00ccee&show_icons=false" alt="github-quran-player-repo"></a>
 <a href="https://github.com/Ak-ram/todoist"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Ak-ram&repo=todoist&theme=react&bg_color=1F222E&title_color=00ccee&hide_border=true&icon_color=00ccee&show_icons=false" alt="github-todoist-repo"></a>
 <a href="https://github.com/Ak-ram/flexbox-playground"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Ak-ram&repo=flexbox-playground&theme=react&bg_color=1F222E&title_color=00ccee&hide_border=true&icon_color=00ccee&show_icons=false" alt="github-flexbox-playground-repo"></a>
 </p>
@@ -171,8 +170,6 @@ Confident in making a significant contribution to a team 🎯 and eager to learn
 <p align="left">
 <a href="https://github.com/Ak-ram/ak-ram.github.io"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Ak-ram&repo=ak-ram.github.io&theme=react&bg_color=1F222E&title_color=F8D866&hide_border=false&border_color=F8D866&icon_color=F8D866&show_icons=true" alt="github-Portfolio-repo"></a>
 <a href="https://github.com/Ak-ram/excel-processor"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Ak-ram&repo=excel-processor&theme=react&bg_color=1F222E&title_color=F8D866&hide_border=true&icon_color=F8D866&show_icons=false" alt="excel-processor"></a>
-<a href="https://github.com/Ak-ram/social-media"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Ak-ram&repo=social-media&theme=react&bg_color=1F222E&title_color=F8D866&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-social-media-repo"></a>
-<a href="https://github.com/Ak-ram/bookbia"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Ak-ram&repo=bookbia&theme=react&bg_color=1F222E&title_color=F8D866&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-bookbia-repo"></a>
 <a href="https://github.com/Ak-ram/Ctyptex"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Ak-ram&repo=Ctyptex&theme=react&bg_color=1F222E&title_color=F8D866&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-Ctyptex-repo"></a>
 </p>
 
